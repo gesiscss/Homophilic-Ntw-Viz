@@ -44,7 +44,7 @@ The parameters that can be changed are:
 
 * Kohne, J., Gallagher, N., Kirgil, Z. M., Paolillo, R., Padmos, L., & Karimi, F. (2020). The Role of Network Structure and Initial Group Norm Distributions in Norm Conflict. In Computational Conflict Research (pp. 113-140). Springer, Cham.
 
-## Author of the code
+## Authors of the code
 * **Fariba Karimi**
 * **Zahra Sheikhbahaee** - PhD in Astrophysics 
 
