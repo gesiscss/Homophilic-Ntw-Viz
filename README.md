@@ -37,8 +37,14 @@ The parameters that can be changed are:
 
 **The colour bars** (the top left side) illustrate the *fraction* of minority nodes (red) in the **top 10%** with the highest degree inside the generated network.
 
+## Related Works
+* Lee, E., Karimi, F., Wagner, C., Jo, H. H., Strohmaier, M., & Galesic, M. (2019). Homophily and minority-group size explain perception biases in social networks. Nature human behaviour, 3(10), 1078-1087.
+
+* Karimi, F., Génois, M., Wagner, C., Singer, P., & Strohmaier, M. (2018). Homophily influences ranking of minorities in social networks. Scientific reports, 8(1), 11077.
+
+* Kohne, J., Gallagher, N., Kirgil, Z. M., Paolillo, R., Padmos, L., & Karimi, F. (2020). The Role of Network Structure and Initial Group Norm Distributions in Norm Conflict. In Computational Conflict Research (pp. 113-140). Springer, Cham.
 
 ## Author of the code
-
+* **Fariba Karimi**
 * **Zahra Sheikhbahaee** - PhD in Astrophysics 
 
